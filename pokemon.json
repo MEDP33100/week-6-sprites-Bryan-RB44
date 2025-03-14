@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Chikorita",
+      "type": ["Grass"],
+      "stats": {"HP": 45, "Attack": 49, "Defense": 65, "Sp. Attack": 49, "Sp. Defense": 65, "Speed": 45}
+    },
+    {
+      "name": "Bayleef",
+      "type": ["Grass"],
+      "stats": {"HP": 60, "Attack": 62, "Defense": 80, "Sp. Attack": 63, "Sp. Defense": 80, "Speed": 60}
+    },
+    {
+      "name": "Meganium",
+      "type": ["Grass"],
+      "stats": {"HP": 80, "Attack": 82, "Defense": 100, "Sp. Attack": 83, "Sp. Defense": 100, "Speed": 80}
+    },
+    {
+      "name": "Hoppip",
+      "type": ["Grass", "Flying"],
+      "stats": {"HP": 35, "Attack": 35, "Defense": 40, "Sp. Attack": 35, "Sp. Defense": 55, "Speed": 50}
+    },
+    {
+      "name": "Skiploom",
+      "type": ["Grass", "Flying"],
+      "stats": {"HP": 55, "Attack": 45, "Defense": 50, "Sp. Attack": 45, "Sp. Defense": 65, "Speed": 80}
+    },
+    {
+      "name": "Jumpluff",
+      "type": ["Grass", "Flying"],
+      "stats": {"HP": 75, "Attack": 55, "Defense": 70, "Sp. Attack": 55, "Sp. Defense": 95, "Speed": 110}
+    },
+    {
+      "name": "Sunkern",
+      "type": ["Grass"],
+      "stats": {"HP": 30, "Attack": 30, "Defense": 30, "Sp. Attack": 30, "Sp. Defense": 30, "Speed": 30}
+    },
+    {
+      "name": "Sunflora",
+      "type": ["Grass"],
+      "stats": {"HP": 75, "Attack": 75, "Defense": 55, "Sp. Attack": 105, "Sp. Defense": 85, "Speed": 30}
+    }
+  ]
