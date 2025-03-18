@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Surskit",
+    "type": ["Bug", "Water"],
+    "dexNum": 283
+ },
+  {
+    "name": "Sunkern",
+    "type": ["Grass"],
+    "dexNum": 191
+  },
+  {
+    "name": "Onix",
+    "type": ["Rock", "Ground"],
+    "dexNum": 95
+  },
+  {
+    "name": "Mudkip",
+    "type": ["Water"],
+    "dexNum": 258
+  },
+  {
+    "name": "Magnemite",
+    "type": ["Electric", "Steel"],
+    "dexNum": 81
+  }
+]

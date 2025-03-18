@@ -1,0 +1,35 @@
+.pokemon {
+    /* Default used (for the Surskit example */
+    background-color: #a6ff00;
+    width: fit-content;
+    padding-top: 1%;
+    display: inline-block;
+    margin-left: 2em;
+    margin-top: 2em;
+}
+.pokemon h1 {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+}
+.pokemon img {
+    background-color: #ffffff;
+    display: block;
+    width: 100%;
+}
+
+.typeSect {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.stats {
+    display: inline;
+    border: solid #000000;
+    border-radius: 25%;
+    background-color: #ffffff;
+    
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding: 3px;
+}
