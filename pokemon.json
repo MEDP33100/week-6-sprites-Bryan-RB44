@@ -15,8 +15,13 @@
     "dexNum": 95
   },
   {
-    "name": "Caterpie",
-    "type": ["Bug"],
-    "dexNum": 10
+    "name": "Mudkip",
+    "type": ["Water"],
+    "dexNum": 258
+  },
+  {
+    "name": "Magnemite",
+    "type": ["Electric", "Steel"],
+    "dexNum": 81
   }
 ]
