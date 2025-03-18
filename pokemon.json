@@ -1,17 +1,22 @@
 [
-    {
-      "name": "Sunkern",
-      "type": ["Grass"],
-      "dexNum": 191
-    },
-    {
-      "name": "Onix",
-      "type": ["Rock", "Ground"],
-      "dexNum": 95
-    },
-    {
-      "name": "Caterpie",
-      "type": ["Bug"],
-      "dexNum": 10
-    }
+  {
+    "name": "Surskit",
+    "type": ["Bug", "Water"],
+    "dexNum": 283
+ },
+  {
+    "name": "Sunkern",
+    "type": ["Grass"],
+    "dexNum": 191
+  },
+  {
+    "name": "Onix",
+    "type": ["Rock", "Ground"],
+    "dexNum": 95
+  },
+  {
+    "name": "Caterpie",
+    "type": ["Bug"],
+    "dexNum": 10
+  }
 ]

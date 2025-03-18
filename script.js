@@ -2,8 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
 fetch('pokemon.json')
     .then(x => x.text())
     .then(y => {
-        //Do the stuff here
-        console.log(y) //Just for testing
+        
     });
 });
 
