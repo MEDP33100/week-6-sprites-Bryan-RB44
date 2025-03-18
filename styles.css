@@ -1,11 +1,11 @@
-.pokemon1 {
-    text-align: center;
-}
-
 .pokemon {
+    /* Default used (for the Surskit example */
     background-color: #a6ff00;
     width: fit-content;
     padding-top: 1%;
+    display: inline-block;
+    margin-left: 2em;
+    margin-top: 2em;
 }
 .pokemon h1 {
     font-family: "Press Start 2P", system-ui;
